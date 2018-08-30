@@ -74,7 +74,7 @@
 
 过滤器，filter
 
-过拟合，underfitting
+欠拟合，underfitting
 
 假设，hypothesis
 
@@ -130,7 +130,7 @@ softmax回归，softmax regression
 
 平均池化层，mean pooling layer
 
-欠拟合，overfitting
+过拟合，overfitting
 
 情感分析，sentiment analysis
 
